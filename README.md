@@ -1,6 +1,6 @@
 # Easy Link - Business Landing Page
 
-A fully responsive, modern business landing page for Easy Link, a Guangzhou-based consulting firm specializing in company setup, visa services, accounting, and global expansion.
+A fully responsive, modern business landing page for Easy Link, a Guangzhou-based consulting firm specializing in company setup, visa services, accounting, and global expansion..
 
 ## 🚀 Features
 
