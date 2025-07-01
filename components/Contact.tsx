@@ -77,6 +77,17 @@ export default function Contact() {
                     <p className="text-gray-600">Saturday: 9:00 AM - 2:00 PM</p>
                   </div>
                 </div>
+                {/* WeChat QR Code */}
+                <div className="mt-8 text-center">
+                  <h4 className="font-semibold text-gray-900 mb-2">WeChat (Weixin) QR</h4>
+                  <img
+                    src="/wechat-korbanali.png"
+                    alt="WeChat QR for korbanali"
+                    className="w-32 h-32 mx-auto rounded-lg shadow-lg border border-gray-200 bg-white"
+                  />
+                  <div className="mt-2 text-sm text-gray-600">Weixin ID: <span className="font-semibold">korbanali</span></div>
+                  <a href="/wechat-korbanali.png" download className="text-blue-600 hover:underline text-xs mt-1 inline-block">Download QR</a>
+                </div>
               </div>
             </div>
           </div>

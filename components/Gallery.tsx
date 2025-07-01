@@ -67,12 +67,30 @@ export default function Gallery() {
               Follow us on social media to see more behind-the-scenes content and stay updated with our latest projects and success stories.
             </p>
             <div className="flex justify-center space-x-4">
-              <button className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition-all duration-300 transform hover:scale-105">
-                Follow on LinkedIn
-              </button>
-              <button className="bg-green-600 text-white px-6 py-3 rounded-full hover:bg-green-700 transition-all duration-300 transform hover:scale-105">
-                Follow on WeChat
-              </button>
+              <a
+                href="https://www.linkedin.com/company/easylink-gunagzhou"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition-all duration-300 transform hover:scale-105"
+              >
+                Follow on Linkedin
+              </a>
+              <a
+                href="https://www.youtube.com/@GZEasyLink"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-red-600 text-white px-6 py-3 rounded-full hover:bg-red-700 transition-all duration-300 transform hover:scale-105"
+              >
+                Follow on YouTube
+              </a>
+              <a
+                href="https://facebook.com/easylinkgz"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-blue-800 text-white px-6 py-3 rounded-full hover:bg-blue-900 transition-all duration-300 transform hover:scale-105"
+              >
+                Follow on Facebook
+              </a>
             </div>
           </div>
         </div>
