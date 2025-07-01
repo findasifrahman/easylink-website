@@ -4,22 +4,22 @@ const montserrat = Montserrat({ subsets: ['latin'], weight: ['700', '400'] })
 
 const heroCards = [
   {
-    text: 'Company Registration in Guangzhou',
+    text: 'Mainland China,Hong Kong Company Registration',
     bg: 'from-blue-500 to-blue-400',
     shadow: 'shadow-blue-300',
   },
   {
-    text: 'Hong Kong, Tax and Accounting in China',
+    text: 'Bookkeeping & Tax Accounting to reduce compliance risks',
     bg: 'from-green-500 to-green-400',
     shadow: 'shadow-green-300',
   },
   {
-    text: 'License & Certificate & Trademark',
+    text: 'Work Permit and Residence Permit',
     bg: 'from-purple-500 to-purple-400',
     shadow: 'shadow-purple-300',
   },
   {
-    text: 'Change Legal Representative and Information',
+    text: 'Easy Chinese Visa Application to avoid complex regulations',
     bg: 'from-pink-500 to-pink-400',
     shadow: 'shadow-pink-300',
   },
@@ -31,7 +31,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/hero-bg.jpg"
+        
           alt="Hero Background"
           className="w-full h-full object-cover object-center"
           style={{ filter: 'brightness(0.7)' }}
@@ -65,8 +65,8 @@ export default function Hero() {
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold mb-2 text-center text-white drop-shadow-xl tracking-tight">
             Your Business, Our Solution
           </h1>
-          <p className="text-base sm:text-lg lg:text-2xl mb-6 text-blue-50 leading-relaxed text-center max-w-2xl mx-auto drop-shadow-lg font-medium">
-            Company setup, visa services, accounting, and global expansion from the heart of China.
+          <p className="text-base sm:text-lg lg:text-2xl mb-6 text-blue-50 leading-relaxed text-center max-w-2xl mx-auto drop-shadow-lg font-medium" style={{ color: '#cccc22', fontWeight: 'bold'}}>
+             Guangzhou EasyLink International Business Consulting Co., Ltd
           </p>
         </div>
 

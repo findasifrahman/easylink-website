@@ -30,7 +30,7 @@ export default function About() {
                 Guangzhou-Based Excellence
               </h3>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Easy Link is a Guangzhou-based consulting firm that empowers expatriates and Chinese businesses with registration, visa, tax, and hiring services.
+                EasyLink, was established to streamline business operations for international clients in China. Our motto, "Your business, Our solution," reflects our commitment to delivering top-tier services in company formation, bookkeeping, Chinese visa applications, residence permits, and work permits for foreigners.
               </p>
             </div>
             
