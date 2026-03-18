@@ -45,8 +45,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-1">Phone</h4>
-                    <a href="tel:+8618989410063" className="text-blue-600 hover:text-blue-800 transition-colors">
-                      +86 18989410063
+                    <a href="tel:+8613265980063" className="text-blue-600 hover:text-blue-800 transition-colors">
+                      +86 13265980063
                     </a>
                   </div>
                 </div>
