@@ -52,11 +52,11 @@ export default function Footer() {
             <div className="text-center">
               <h5 className="text-sm font-medium mb-2">WeChat QR (Weixin: korbanali)</h5>
               <img
-                src="/wechat-korbanali.png"
+                src="/wechat-korbanali.jpg"
                 alt="WeChat QR for korbanali"
                 className="w-24 h-24 bg-gray-700 rounded-lg flex items-center justify-center mx-auto border border-gray-200"
               />
-              <a href="/wechat-korbanali.png" download className="text-blue-400 hover:underline text-xs mt-1 inline-block">Download QR</a>
+              <a href="/wechat-korbanali.jpg" download className="text-blue-400 hover:underline text-xs mt-1 inline-block">Download QR</a>
             </div>
           </div>
         </div>

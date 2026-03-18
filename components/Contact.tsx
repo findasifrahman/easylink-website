@@ -81,12 +81,12 @@ export default function Contact() {
                 <div className="mt-8 text-center">
                   <h4 className="font-semibold text-gray-900 mb-2">WeChat (Weixin) QR</h4>
                   <img
-                    src="/wechat-korbanali.png"
+                    src="/wechat-korbanali.jpg"
                     alt="WeChat QR for korbanali"
                     className="w-32 h-32 mx-auto rounded-lg shadow-lg border border-gray-200 bg-white"
                   />
                   <div className="mt-2 text-sm text-gray-600">Weixin ID: <span className="font-semibold">korbanali</span></div>
-                  <a href="/wechat-korbanali.png" download className="text-blue-600 hover:underline text-xs mt-1 inline-block">Download QR</a>
+                  <a href="/wechat-korbanali.jpg" download className="text-blue-600 hover:underline text-xs mt-1 inline-block">Download QR</a>
                 </div>
               </div>
             </div>
