@@ -93,10 +93,10 @@ export default function Navbar() {
             {/* Phone Number */}
             <div className="hidden md:flex items-center space-x-4">
               <a
-                href="tel:+8618989410063"
+                href="tel:+8613265980063"
                 className="text-white hover:text-blue-200 text-sm font-medium transition-colors duration-200"
               >
-                +86 18989410063
+                +86 13265980063
               </a>
             </div>
 
