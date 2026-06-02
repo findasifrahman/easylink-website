@@ -1,7 +1,7 @@
 export default function Footer() {
   const languages = ['EN', 'FR', 'AR', 'BN']
   const currentYear = new Date().getFullYear()
-  const address = "Room 13D, 13th Floor, Rongjian Building, No. 29, Construction Six Road, Yuexiu District, Guangzhou";
+  const address = "Room 1510-1512, Guangdong International Building (Crowne Plaza Building),  Huanshi Donglu 399, Yuexiu District, Guangzhou,China";
 
   return (
     <footer className="bg-gray-900 text-white">

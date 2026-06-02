@@ -1,5 +1,5 @@
 export default function Contact() {
-  const address = "Room 13D, 13th Floor, Rongjian Building, No. 29, Construction Six Road, Yuexiu District, Guangzhou";
+  const address = "Room 1510-1512, Guangdong International Building (Crowne Plaza Building),  Huanshi Donglu 399, Yuexiu District, Guangzhou,China. ";
   return (
     <section id="contact" className="section-padding bg-blue-50 relative overflow-hidden">
       {/* Background Pattern */}
